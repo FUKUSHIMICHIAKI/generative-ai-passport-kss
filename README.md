@@ -15,3 +15,5 @@
 
 ## 補足
 Gemini CLIで作成
+
+test
