@@ -15,6 +15,12 @@ let touchEndX = 0;
 
 const words = [
   {
+    "chapter": "第1章 AI(にせ情報)",
+    "term": "AI(偽情報)",
+    "definition": "適当な情報",
+    "link": "https://yahoo.co.jp"
+  },
+  {
     "chapter": "第1章 AI(人工知能)",
     "term": "AI(人工知能)",
     "definition": "明確な定義は存在しないが、「大量の知識データに対して、高度な推論を的確に行うことを目指したもの」とされている。",
